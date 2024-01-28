@@ -1,0 +1,7 @@
+{
+    "videos": [
+        "movie.Mjpeg",
+        "movie_2.Mjpeg"
+    ],
+    "videos_dir": "./videos/"
+}
